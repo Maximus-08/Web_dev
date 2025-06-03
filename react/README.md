@@ -14,21 +14,21 @@ This folder contains all my web development projects built using [React](https:/
 - CSS Modules / Tailwind (per project)
 
 ## 🛠️ Running a Project
-# 🧑‍💻 Git Instructions for Using These Projects
+## 🧑‍💻 Git Instructions for Using These Projects
 
-# 1. Clone the repository
+### 1. Clone the repository
 git clone https://github.com/your-username/Web_dev.git
 
-# 2. Navigate to the React folder
+### 2. Navigate to the React folder
 cd Web_dev/react
 
-# 3. Choose a project (example: passgen)
+### 3. Choose a project (example: passgen)
 cd passgen
 
-# 4. Install dependencies
+### 4. Install dependencies
 npm install
 
-# 5. Start the development server
+### 5. Start the development server
 npm run dev
 
-# ✅ Done! The app will be available at http://localhost:5173
+### ✅ Done! The app will be available at http://localhost:5173
