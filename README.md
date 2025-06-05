@@ -10,7 +10,7 @@ To clone this repository and run any project locally:
 
 1. Clone the repository:
 
-   git clone (https://github.com/Maximus-08/Web_dev).git
+   git clone https://github.com/Maximus-08/Web_dev.git
    
    cd Web_dev
 
