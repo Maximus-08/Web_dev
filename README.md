@@ -4,18 +4,6 @@ Welcome to my collection of web development projects! This repository is structu
 
 ---
 
-## 📁 Project Structure
-
-Web_dev/
-├── react/            # React-based projects (built using Vite)
-│   ├── passgen/      # Random password generator
-│   └── portfolio/    # Personal portfolio website
-├── vanilla-js/       # [optional] Plain JavaScript projects
-├── html-css/         # [optional] Static HTML/CSS pages
-└── README.md         # Main project overview (this file)
-
----
-
 ## 🚀 Getting Started
 
 To clone this repository and run any project locally:
