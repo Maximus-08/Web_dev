@@ -1,0 +1,2 @@
+@import "tailwindcss"; /* <body data-theme="dark"> */ 
+@custom-variant dark (&:where(.dark, .dark *));
